@@ -27,22 +27,39 @@ Identifying Customers based on spending habits, browsing habits, interaction wit
 
 
 Advantages of Customer Segmentation:
+
 •	Effective Marketing
+
 •	Efficient Spending
+
 •	Higher Quality Needs
+
 •	Identify Niche Markets
+
 •	Improved Customer Retention
 
+
 Machine Learning for Customer Segmentation:
+
 Machine Learning techniques are great tool for analyzing larger amounts of data, finding insights and patterns. They are great tools for decision makers to precisely identify customer segments, and to provide their required needs and necessary promotions etc.
 Suitable Algorithms for Customer segmentation:
+
 •	K-means
 •	DBSCAN
+
 •	Agglomerative clustering
+
 •	BIRCH
+
 •	Hierarchical Grouping
+
+
 Advantages of applying ML for Customer segmentation:
+
 •	More time
+
 •	Ease of retraining
+
 •	Better scaling
+
 •	Higher accuracy
